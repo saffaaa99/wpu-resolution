@@ -1,6 +1,8 @@
 PLANNING WEBSITE WPU
 
 - Javascript
+  *code easily
+  *uniqe code
 - PHP Frameworks
 - CSS
 - HTML
